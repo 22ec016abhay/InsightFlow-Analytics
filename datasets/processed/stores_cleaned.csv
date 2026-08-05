@@ -1,0 +1,16 @@
+store_id,store_name,city,state,region,opened_date,square_footage,manager_id
+1,InsightFlow New York #001,New York,NY,Northeast,2022-03-04,3500,
+2,InsightFlow Boston #002,Boston,MA,Northeast,2015-04-13,8800,37.0
+3,InsightFlow Philadelphia #003,Philadelphia,PA,Northeast,2018-01-31,4200,43.0
+4,InsightFlow Chicago #004,Chicago,IL,Midwest,2017-07-03,4200,35.0
+5,InsightFlow Detroit #005,Detroit,MI,Midwest,2016-02-24,8800,
+6,InsightFlow Minneapolis #006,Minneapolis,MN,Midwest,2021-02-11,3500,
+7,InsightFlow Houston #007,Houston,TX,South,2021-08-15,6000,
+8,InsightFlow Dallas #008,Dallas,TX,South,2015-05-11,3500,
+9,InsightFlow Atlanta #009,Atlanta,GA,South,2016-01-19,4200,
+10,InsightFlow Miami #010,Miami,FL,South,2017-08-10,7500,
+11,InsightFlow Los Angeles #011,Los Angeles,CA,West,2021-10-01,3500,
+12,InsightFlow San Francisco #012,San Francisco,CA,West,2021-04-17,4200,11.0
+13,InsightFlow Seattle #013,Seattle,WA,West,2023-01-11,8800,30.0
+14,InsightFlow Denver #014,Denver,CO,West,2022-11-12,7500,
+15,InsightFlow Phoenix #015,Phoenix,AZ,West,2019-09-15,4200,32.0

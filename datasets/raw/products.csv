@@ -1,0 +1,301 @@
+product_id,product_name,category,brand,unit_cost,unit_price,supplier
+1,Sneakers,Apparel,Brand17,15.39,31.01,Supplier C
+2,USB-C Cable Mini,Electronics,Brand22,22.79,35.98,Supplier D
+3,Dumbbell Set,Sports & Outdoors,Brand2,235.57,507.54,Supplier J
+4,Webcam V2,Electronics,Brand9,165.37,355.19,Supplier D
+5,Office Chair Deluxe,Office Supplies,Brand21,80.6,136.89,Supplier E
+6,Resistance Bands Lite,SPORTS & OUTDOORS,Brand20,232.47,628.51,Supplier J
+7,Power Bank,Electronics,Brand12,135.8,279.59,Supplier B
+8,Vacuum Cleaner Lite,Home & Kitchen,Brand10,73.39,143.64,Supplier J
+9,Green Tea Box Deluxe,Groceries,Brand22,133.65,307.63,Supplier B
+10,Blender Lite,Home & Kitchen,Brand9,31.51,46.02,Supplier E
+11,Desk Organizer Pro,Office Supplies,Brand9,180.25,289.37,Supplier I
+12,Shampoo Lite,Beauty & Personal Care,Brand14,226.62,582.22,Supplier E
+13,Laptop Stand,Electronics,Brand6,85.39,127.76,Supplier L
+14,Hiking Backpack Mini,Sports & Outdoors,Brand23,177.3,379.66,Supplier C
+15,Hair Dryer,Beauty & Personal Care,Brand5,209.14,454.62,Supplier A
+16,Jacket Lite,Apparel,Brand12,225.05,561.32,Supplier D
+17,Building Blocks Set Pro,Toys & Games,Brand14,167.73,307.03,Supplier J
+18,Action Figure Pro,Toys & Games,Brand6,231.66,383.42,Supplier G
+19,Bluetooth Speaker Pro,Electronics,Brand22,184.93,332.56,Supplier L
+20,Green Tea Box Pro,Groceries,Brand2,68.9,170.95,Supplier H
+21,Cookware Set Pro,Home & Kitchen,Brand8,204.7,407.45,Supplier D
+22,Bluetooth Speaker Deluxe,Electronics,Brand25,50.7,90.87,Supplier E
+23,Cap Deluxe,Apparel,Brand11,128.82,298.77,Supplier A
+24,Smart Watch Lite,Electronics,Brand4,47.11,129.26,Supplier J
+25,Camping Tent Lite,Sports & Outdoors,Brand17,182.95,323.92,Supplier B
+26,Yoga Mat Mini,Sports & Outdoors,Brand17,49.95,68.26,Supplier I
+27,Building Blocks Set Deluxe,Toys & Games,Brand14,235.24,565.88,Supplier B
+28,Office Chair Lite,Office Supplies,Brand10,156.92,360.14,Supplier I
+29,Jacket Deluxe,Apparel,Brand5,103.87,197.73,Supplier D
+30,Water Bottle Deluxe,Sports & Outdoors,Brand20,235.27,544.88,Supplier J
+31,Jacket V2,Apparel,Brand14,138.34,179.93,Supplier J
+32,Desk Organizer Deluxe,Office Supplies,Brand17,82.6,162.12,Supplier H
+33,Pasta Pack XL,Groceries,Brand22,184.78,422.83,Supplier K
+34,Ballpoint Pens (12pk) Lite,Office Supplies,Brand10,26.07,71.12,Supplier D
+35,Green Tea Box Pro,Groceries,Brand20,39.4,53.95,Supplier B
+36,Resistance Bands V2,Sports & Outdoors,Brand13,221.88,480.04,Supplier H
+37,Dumbbell Set Pro,Sports & Outdoors,Brand25,39.45,91.98,Supplier B
+38,Olive Oil V2,Groceries,Brand15,57.05,142.98,Supplier A
+39,Sunscreen Pro,Beauty & Personal Care,Brand15,229.62,340.31,Supplier K
+40,Electric Toothbrush Mini,Beauty & Personal Care,Brand20,150.08,408.98,Supplier L
+41,Face Moisturizer V2,Beauty & Personal Care,Brand24,208.15,441.65,Supplier H
+42,Hiking Backpack Lite,Sports & Outdoors,Brand25,188.69,483.01,Supplier I
+43,Shampoo Deluxe,Beauty & Personal Care,Brand8,62.09,121.68,Supplier E
+44,Socks Pack Lite,Apparel,Brand13,223.58,317.68,Supplier L
+45,Coffee Maker Deluxe,Home & Kitchen,Brand15,55.85,107.36,Supplier G
+46,USB-C Cable Pro,Electronics,Brand23,208.72,393.27,Supplier A
+47,Organic Coffee Beans Mini,Groceries,Brand25,96.95,126.89,Supplier G
+48,Water Bottle Mini,Sports & Outdoors,Brand8,187.64,397.65,Supplier H
+49,Cookware Set Lite,Home & Kitchen,Brand22,110.65,148.66,Supplier G
+50,RC Car Pro,Toys & Games,Brand18,210.6,564.26,Supplier A
+51,Dumbbell Set Mini,Sports & Outdoors,Brand5,142.4,190.91,Supplier H
+52,Cutting Board,Home & Kitchen,Brand11,67.26,120.46,Supplier G
+53,Jeans XL,Apparel,Brand16,237.95,459.8,Supplier A
+54,Action Figure Mini,Toys & Games,Brand3,15.87,43.29,Supplier K
+55,Laptop Stand XL,Electronics,Brand20,10.66,17.81,Supplier C
+56,Vacuum Cleaner Pro,Home & Kitchen,Brand15,119.97,176.55,Supplier L
+57,T-Shirt XL,Apparel,Brand23,94.12,207.9,Supplier B
+58,Olive Oil XL,Groceries,Brand10,43.45,76.76,Supplier J
+59,Building Blocks Set V2,Toys & Games,Brand23,100.97,239.55,Supplier K
+60,Vacuum Cleaner,Home & Kitchen,Brand4,175.21,307.03,Supplier J
+61,Pasta Pack,Groceries,Brand17,88.76,172.42,Supplier K
+62,Socks Pack,Apparel,Brand12,212.85,539.25,Supplier K
+63,Resistance Bands Deluxe,Sports & Outdoors,Brand21,40.79,63.8,Supplier E
+64,Ballpoint Pens (12pk) XL,Office Supplies,Brand24,230.15,566.62,Supplier J
+65,Jeans Lite,Apparel,Brand15,213.37,543.26,Supplier D
+66,Organic Coffee Beans V2,Groceries,Brand16,143.75,330.95,Supplier F
+67,Cutting Board V2,Home & Kitchen,Brand20,55.39,138.29,Supplier L
+68,Jeans Mini,Apparel,Brand24,5.51,15.0,Supplier G
+69,Shampoo Mini,Beauty & Personal Care,Brand16,190.27,444.45,Supplier H
+70,Pasta Pack,Groceries,Brand10,25.98,42.41,Supplier K
+71,Notebook Lite,Office Supplies,Brand24,119.9,251.36,Supplier I
+72,Socks Pack Lite,Apparel,Brand4,176.61,301.36,Supplier L
+73,Knife Set Lite,Home & Kitchen,Brand6,32.53,68.44,Supplier D
+74,Toaster Deluxe,Home & Kitchen,Brand17,122.6,292.63,Supplier J
+75,Hoodie,Apparel,Brand10,208.66,363.98,Supplier A
+76,Puzzle 1000pc Mini,Toys & Games,Brand10,34.27,46.89,Supplier L
+77,Blender Deluxe,Home & Kitchen,Brand19,217.51,442.92,Supplier E
+78,Bicycle Helmet V2,Sports & Outdoors,Brand16,111.8,176.26,Supplier B
+79,Almond Butter,Groceries,Brand2,101.97,143.89,Supplier C
+80,Coffee Maker XL,Home & Kitchen,Brand4,142.02,249.35,Supplier I
+81,Organic Coffee Beans V2,Groceries,Brand17,152.76,379.78,Supplier G
+82,Hiking Backpack V2,Sports & Outdoors,Brand19,76.45,166.87,Supplier J
+83,USB-C Cable Mini,Electronics,Brand21,240.15,347.94,Supplier D
+84,T-Shirt Deluxe,Apparel,Brand6,23.05,38.26,Supplier A
+85,Water Bottle V2,SPORTS & OUTDOORS,Brand10,173.27,347.38,Supplier L
+86,Hoodie Deluxe,Apparel,Brand9,215.32,302.91,Supplier K
+87,Notebook Deluxe,Office Supplies,Brand8,201.56,321.84,Supplier K
+88,Coffee Maker Lite,Home & Kitchen,Brand10,207.18,291.53,Supplier J
+89,Action Figure XL,Toys & Games,Brand23,143.59,248.83,Supplier E
+90,Board Game V2,Toys & Games,Brand3,235.84,483.64,Supplier J
+91,Laptop Stand V2,ELECTRONICS,Brand8,184.43,406.77,Supplier K
+92,Perfume Mini,Beauty & Personal Care,Brand9,237.84,665.8,Supplier J
+93,Laptop Stand XL,Electronics,Brand9,189.8,380.69,Supplier C
+94,Notebook V2,Office Supplies,Brand12,159.79,325.59,Supplier G
+95,Socks Pack Lite,Apparel,Brand23,168.52,435.89,Supplier H
+96,Hoodie Deluxe,Apparel,Brand15,236.46,595.96,Supplier B
+97,Sneakers Lite,Apparel,Brand17,82.85,228.27,Supplier A
+98,Office Chair XL,Office Supplies,Brand12,137.02,263.06,Supplier J
+99,Organic Coffee Beans V2,Groceries,Brand18,157.48,384.25,Supplier C
+100,Hoodie V2,APPAREL,Brand21,220.57,447.11,Supplier J
+101,Green Tea Box Pro,GROCERIES,Brand14,178.32,314.94,Supplier B
+102,Cookware Set XL,Home & Kitchen,Brand5,228.49,455.19,Supplier H
+103,Puzzle 1000pc Lite,Toys & Games,Brand16,128.69,220.08,Supplier D
+104,Resistance Bands Mini,Sports & Outdoors,Brand24,38.73,61.42,Supplier C
+105,Wireless Mouse Lite,Electronics,Brand17,193.85,500.45,Supplier E
+106,Almond Butter,Groceries,Brand22,72.86,127.35,Supplier H
+107,Coffee Maker V2,Home & Kitchen,Brand18,136.03,247.26,Supplier G
+108,Resistance Bands Lite,Sports & Outdoors,Brand13,217.79,603.53,Supplier D
+109,Olive Oil V2,Groceries,Brand13,13.78,33.31,Supplier G
+110,Office Chair XL,Office Supplies,Brand2,205.72,570.1,Supplier C
+111,Face Moisturizer Mini,Beauty & Personal Care,Brand4,85.0,123.3,Supplier I
+112,Resistance Bands,Sports & Outdoors,Brand5,181.44,347.45,Supplier B
+113,Bicycle Helmet XL,Sports & Outdoors,Brand21,242.39,438.2,Supplier B
+114,Socks Pack XL,Apparel,Brand21,169.57,356.17,Supplier L
+115,Organic Coffee Beans V2,Groceries,Brand21,218.48,295.79,Supplier K
+116,Hoodie Pro,Apparel,Brand21,187.45,365.71,Supplier L
+117,Power Bank V2,ELECTRONICS,Brand11,44.09,77.12,Supplier A
+118,Hoodie Lite,Apparel,Brand19,95.59,145.14,Supplier K
+119,Pasta Pack Pro,Groceries,Brand20,44.99,63.82,Supplier K
+120,Vacuum Cleaner V2,Home & Kitchen,Brand9,228.47,346.06,Supplier H
+121,T-Shirt Deluxe,Apparel,Brand22,5.32,13.34,Supplier I
+122,Air Fryer,Home & Kitchen,Brand21,112.11,203.86,Supplier G
+123,Board Game Lite,Toys & Games,Brand16,115.84,203.09,Supplier B
+124,Vacuum Cleaner V2,Home & Kitchen,Brand10,144.26,311.92,Supplier A
+125,Office Chair V2,Office Supplies,Brand24,70.8,152.14,Supplier A
+126,Desk Organizer Deluxe,Office Supplies,Brand8,125.69,333.86,Supplier J
+127,Green Tea Box Lite,Groceries,Brand25,57.09,90.5,Supplier L
+128,Olive Oil Deluxe,Groceries,Brand21,171.17,257.64,Supplier K
+129,Laptop Stand Lite,Electronics,Brand5,197.79,267.03,Supplier B
+130,Hoodie Lite,Apparel,Brand18,187.63,293.35,Supplier F
+131,Electric Toothbrush Mini,Beauty & Personal Care,Brand16,228.63,582.03,Supplier E
+132,Action Figure XL,Toys & Games,Brand5,86.66,127.63,Supplier D
+133,Building Blocks Set Deluxe,Toys & Games,Brand18,169.58,321.54,Supplier F
+134,Webcam XL,Electronics,Brand12,100.46,170.45,Supplier K
+135,Action Figure Deluxe,Toys & Games,Brand12,67.75,126.8,Supplier B
+136,Building Blocks Set Pro,Toys & Games,Brand11,119.45,266.29,Supplier J
+137,Cookware Set Deluxe,Home & Kitchen,Brand10,18.61,47.19,Supplier K
+138,Water Bottle,Sports & Outdoors,Brand16,37.52,102.03,Supplier B
+139,Power Bank Pro,Electronics,Brand22,222.15,334.0,Supplier L
+140,Board Game Mini,Toys & Games,Brand14,106.52,257.08,Supplier K
+141,Power Bank XL,Electronics,Brand2,123.87,236.86,Supplier L
+142,Belt Pro,Apparel,Brand4,112.52,306.71,Supplier K
+143,Belt Mini,Apparel,Brand9,225.72,511.76,Supplier D
+144,Smart Watch XL,Electronics,Brand21,206.58,296.96,Supplier J
+145,Bluetooth Speaker,Electronics,Brand19,197.34,328.64,Supplier D
+146,Wireless Mouse XL,Electronics,Brand8,191.99,309.25,Supplier F
+147,Olive Oil Pro,Groceries,Brand5,197.8,433.97,Supplier C
+148,Hair Dryer Lite,Beauty & Personal Care,Brand5,200.23,293.31,Supplier A
+149,Cap XL,APPAREL,Brand9,197.74,431.72,Supplier A
+150,Blender Deluxe,Home & Kitchen,Brand15,106.98,157.31,Supplier F
+151,Face Moisturizer Mini,Beauty & Personal Care,Brand2,29.94,61.55,Supplier L
+152,Pasta Pack XL,Groceries,Brand1,165.75,290.47,Supplier A
+153,Bicycle Helmet XL,,Brand15,102.2,238.04,Supplier B
+154,Webcam Lite,Electronics,Brand21,153.25,214.32,Supplier J
+155,Sunscreen Deluxe,Beauty & Personal Care,Brand15,83.32,232.62,Supplier I
+156,Desk Organizer V2,Office Supplies,Brand21,27.5,64.7,Supplier I
+157,RC Car XL,Toys & Games,Brand11,56.11,110.95,Supplier H
+158,Dumbbell Set V2,Sports & Outdoors,Brand9,183.21,324.07,Supplier F
+159,Coffee Maker Deluxe,Home & Kitchen,Brand3,230.98,323.53,Supplier G
+160,Power Bank Deluxe,Electronics,Brand19,185.48,466.97,Supplier I
+161,Sunscreen Lite,Beauty & Personal Care,Brand25,168.49,322.86,Supplier G
+162,RC Car,Toys & Games,Brand19,242.19,532.97,Supplier I
+163,Toaster Pro,Home & Kitchen,Brand18,165.21,270.34,Supplier F
+164,Smart Watch XL,Electronics,Brand18,71.81,117.71,Supplier J
+165,Ballpoint Pens (12pk) Deluxe,Office Supplies,Brand23,161.75,216.64,Supplier E
+166,Bluetooth Speaker Pro,Electronics,Brand12,70.5,172.27,Supplier A
+167,Cutting Board XL,Home & Kitchen,Brand24,38.38,87.74,Supplier K
+168,Bluetooth Speaker,Electronics,Brand11,187.29,303.92,Supplier C
+169,Belt Lite,Apparel,Brand3,181.23,446.78,Supplier A
+170,Coffee Maker Pro,Home & Kitchen,Brand15,189.35,260.29,Supplier K
+171,Camping Tent V2,Sports & Outdoors,Brand17,152.95,293.86,Supplier B
+172,Cap V2,Apparel,Brand17,30.39,70.42,Supplier K
+173,Jacket,Apparel,Brand7,57.47,159.58,Supplier E
+174,Toaster XL,Home & Kitchen,Brand1,36.9,62.11,Supplier H
+175,Action Figure V2,Toys & Games,Brand17,46.4,86.78,Supplier I
+176,Office Chair XL,Office Supplies,Brand14,90.48,171.51,Supplier A
+177,Resistance Bands,Sports & Outdoors,Brand23,215.94,467.22,Supplier K
+178,Water Bottle Lite,Sports & Outdoors,Brand20,31.45,41.87,Supplier H
+179,Board Game Lite,Toys & Games,Brand19,24.77,63.58,Supplier G
+180,Electric Toothbrush,Beauty & Personal Care,Brand11,100.75,177.87,Supplier C
+181,Wireless Mouse Mini,Electronics,Brand25,159.41,334.11,Supplier F
+182,Cap Deluxe,Apparel,Brand4,239.68,543.63,Supplier C
+183,T-Shirt Pro,Apparel,Brand3,45.85,70.12,Supplier C
+184,Olive Oil Deluxe,Groceries,Brand15,125.05,304.08,Supplier K
+185,Perfume Deluxe,Beauty & Personal Care,Brand21,159.92,357.71,Supplier F
+186,Coffee Maker V2,Home & Kitchen,Brand9,19.87,39.01,Supplier J
+187,USB-C Cable Lite,Electronics,Brand2,128.31,226.55,Supplier F
+188,Hoodie,Apparel,Brand20,162.23,448.74,Supplier I
+189,Yoga Mat V2,Sports & Outdoors,Brand2,146.34,399.71,Supplier H
+190,Green Tea Box Mini,Groceries,Brand5,164.0,292.3,Supplier A
+191,Hiking Backpack,Sports & Outdoors,Brand3,203.31,519.67,Supplier I
+192,Stapler Pro,Office Supplies,Brand17,12.67,29.92,Supplier I
+193,Ballpoint Pens (12pk) Pro,Office Supplies,Brand25,92.88,248.63,Supplier F
+194,Building Blocks Set Mini,Toys & Games,Brand11,15.93,35.78,Supplier B
+195,Sunscreen Deluxe,Beauty & Personal Care,Brand20,98.48,165.25,Supplier C
+196,Socks Pack,Apparel,Brand21,146.94,222.19,Supplier L
+197,Office Chair V2,Office Supplies,Brand18,34.85,82.36,Supplier G
+198,Stapler XL,Office Supplies,Brand24,84.13,125.5,Supplier K
+199,Electric Toothbrush,Beauty & Personal Care,Brand12,162.57,314.59,Supplier E
+200,Cutting Board Pro,Home & Kitchen,Brand5,87.41,214.09,Supplier C
+201,Wireless Mouse Lite,Electronics,Brand24,211.57,307.14,Supplier I
+202,Laptop Stand Deluxe,Electronics,Brand13,86.18,211.09,Supplier C
+203,Air Fryer Pro,Home & Kitchen,Brand6,208.34,511.82,Supplier L
+204,Hiking Backpack,Sports & Outdoors,Brand15,104.48,,Supplier J
+205,Hoodie XL,Apparel,Brand10,187.89,370.78,Supplier H
+206,Knife Set Lite,Home & Kitchen,Brand25,170.54,367.62,Supplier E
+207,Olive Oil V2,Groceries,Brand7,127.22,245.28,Supplier J
+208,Blender XL,Home & Kitchen,Brand18,64.75,146.45,Supplier B
+209,Puzzle 1000pc XL,Toys & Games,Brand6,130.43,193.95,Supplier E
+210,Hiking Backpack Mini,Sports & Outdoors,Brand8,39.4,77.07,Supplier H
+211,Cap,Apparel,Brand13,105.48,199.85,Supplier B
+212,Belt Pro,Apparel,Brand21,9.96,26.85,Supplier F
+213,Pasta Pack Pro,Groceries,Brand23,36.99,64.0,Supplier C
+214,Organic Coffee Beans Deluxe,Groceries,Brand1,118.87,264.25,Supplier E
+215,Toaster XL,Home & Kitchen,Brand14,39.93,108.22,Supplier B
+216,Olive Oil Lite,Groceries,Brand21,61.7,91.49,Supplier J
+217,Resistance Bands,Sports & Outdoors,Brand1,30.38,80.74,Supplier K
+218,Face Moisturizer Mini,Beauty & Personal Care,Brand20,62.76,95.1,Supplier F
+219,Vacuum Cleaner Mini,Home & Kitchen,Brand12,105.89,243.18,Supplier B
+220,Electric Toothbrush Mini,Beauty & Personal Care,Brand13,128.31,357.02,Supplier H
+221,Laptop Stand Deluxe,Electronics,Brand12,98.56,183.32,Supplier B
+222,Cap Pro,Apparel,Brand24,184.04,412.69,Supplier F
+223,Blender,Home & Kitchen,Brand25,90.02,162.74,Supplier K
+224,Resistance Bands Deluxe,Sports & Outdoors,Brand23,121.2,190.7,Supplier H
+225,Laptop Stand Lite,Electronics,Brand11,52.79,131.27,Supplier E
+226,Face Moisturizer V2,Beauty & Personal Care,Brand25,247.31,522.95,Supplier K
+227,Knife Set Lite,Home & Kitchen,Brand11,91.17,225.3,Supplier E
+228,Smart Watch XL,Electronics,Brand13,93.9,247.35,Supplier F
+229,Cutting Board V2,Home & Kitchen,Brand9,173.94,321.97,Supplier B
+230,RC Car V2,Toys & Games,Brand18,22.49,49.56,Supplier E
+231,Sneakers,Apparel,Brand20,22.78,52.2,Supplier L
+232,Camping Tent Pro,SPORTS & OUTDOORS,Brand12,173.37,316.8,Supplier J
+233,Camping Tent Lite,Sports & Outdoors,Brand22,160.95,400.32,Supplier K
+234,Dumbbell Set Lite,Sports & Outdoors,Brand1,129.73,314.58,Supplier C
+235,Desk Organizer Deluxe,Office Supplies,Brand25,195.98,265.0,Supplier K
+236,Belt Lite,Apparel,Brand22,97.57,209.86,Supplier H
+237,Belt Lite,Apparel,Brand12,112.65,159.44,Supplier G
+238,Sneakers Deluxe,APPAREL,Brand6,71.84,196.9,Supplier H
+239,Electric Toothbrush V2,Beauty & Personal Care,Brand23,228.64,337.62,Supplier H
+240,Toaster Mini,Home & Kitchen,Brand4,73.54,196.7,Supplier C
+241,Wireless Mouse V2,Electronics,Brand22,45.65,108.19,Supplier F
+242,Office Chair Lite,Office Supplies,Brand10,178.26,378.8,Supplier C
+243,Puzzle 1000pc Deluxe,Toys & Games,Brand17,232.05,523.63,Supplier D
+244,Smart Watch Pro,Electronics,Brand12,198.64,328.77,Supplier I
+245,Perfume Lite,Beauty & Personal Care,Brand3,118.45,328.64,Supplier B
+246,Jacket V2,Apparel,Brand25,249.9,594.34,Supplier G
+247,Almond Butter Mini,Groceries,Brand15,21.22,58.54,Supplier H
+248,Building Blocks Set Mini,Toys & Games,Brand21,88.1,230.55,Supplier J
+249,Cutting Board XL,Home & Kitchen,Brand2,241.67,471.0,Supplier B
+250,Electric Toothbrush Pro,Beauty & Personal Care,Brand8,78.12,120.54,Supplier F
+251,Electric Toothbrush Lite,Beauty & Personal Care,Brand18,211.95,355.21,Supplier E
+252,Blender Deluxe,Home & Kitchen,Brand6,77.8,163.4,Supplier J
+253,Notebook Pro,Office Supplies,Brand11,45.29,101.3,Supplier J
+254,Laptop Stand XL,Electronics,Brand25,216.35,307.61,Supplier J
+255,T-Shirt Deluxe,Apparel,Brand1,55.07,118.85,Supplier H
+256,Printer Paper Mini,Office Supplies,Brand22,74.55,203.89,Supplier G
+257,Jacket V2,Apparel,Brand16,21.02,29.22,Supplier H
+258,Toaster Lite,Home & Kitchen,Brand24,152.85,270.37,Supplier F
+259,Dumbbell Set Pro,Sports & Outdoors,Brand8,190.88,395.59,Supplier H
+260,Smart Watch Lite,Electronics,Brand13,114.05,172.37,Supplier J
+261,Water Bottle Pro,Sports & Outdoors,Brand19,240.78,638.9,Supplier L
+262,Sneakers Pro,Apparel,Brand16,191.49,392.06,Supplier E
+263,Shampoo,Beauty & Personal Care,Brand8,25.24,47.7,Supplier D
+264,Notebook Lite,Office Supplies,Brand21,15.02,25.86,Supplier K
+265,Bicycle Helmet Lite,Sports & Outdoors,Brand9,135.56,348.49,Supplier L
+266,Belt XL,Apparel,Brand18,102.6,140.34,Supplier D
+267,Belt Mini,Apparel,Brand18,-74.28,139.61,Supplier E
+268,Almond Butter Mini,Groceries,Brand13,171.06,252.86,Supplier F
+269,Pasta Pack Lite,Groceries,Brand20,140.78,260.22,Supplier I
+270,Dumbbell Set Mini,Sports & Outdoors,Brand16,12.94,17.58,Supplier I
+271,Resistance Bands Pro,Sports & Outdoors,Brand20,152.75,316.69,Supplier F
+272,Air Fryer V2,Home & Kitchen,Brand11,247.68,596.66,Supplier I
+273,Face Moisturizer Mini,Beauty & Personal Care,Brand1,123.99,265.88,Supplier F
+274,Socks Pack Deluxe,Apparel,Brand24,30.07,57.88,Supplier L
+275,Printer Paper,Office Supplies,Brand25,150.44,255.49,Supplier J
+276,Perfume Pro,Beauty & Personal Care,Brand21,181.19,394.14,Supplier L
+277,Ballpoint Pens (12pk) XL,Office Supplies,Brand2,210.77,320.72,Supplier J
+278,Board Game,Toys & Games,Brand14,50.12,98.31,Supplier L
+279,Toaster V2,Home & Kitchen,Brand24,126.95,281.48,Supplier L
+280,USB-C Cable Deluxe,Electronics,Brand22,37.11,59.78,Supplier H
+281,Electric Toothbrush V2,Beauty & Personal Care,Brand11,80.5,125.56,Supplier I
+282,Cap Deluxe,Apparel,Brand23,193.68,461.23,Supplier E
+283,Ballpoint Pens (12pk) V2,Office Supplies,Brand8,50.49,84.31,Supplier E
+284,Olive Oil Lite,Groceries,Brand16,177.11,413.62,Supplier F
+285,Sunscreen XL,Beauty & Personal Care,Brand18,181.25,313.87,Supplier G
+286,Dumbbell Set XL,Sports & Outdoors,Brand2,88.25,217.06,Supplier E
+287,Puzzle 1000pc,Toys & Games,Brand16,88.55,173.87,Supplier D
+288,Knife Set XL,Home & Kitchen,Brand5,136.03,367.22,Supplier B
+289,Ballpoint Pens (12pk) Deluxe,Office Supplies,Brand17,147.95,246.14,Supplier D
+290,Printer Paper Pro,Office Supplies,Brand4,15.97,30.66,Supplier K
+291,Olive Oil Pro,Groceries,Brand14,4.28,9.1,Supplier K
+292,Bicycle Helmet V2,Sports & Outdoors,Brand10,163.68,398.38,Supplier K
+293,USB-C Cable XL,Electronics,Brand24,25.1,54.25,Supplier A
+294,Cutting Board V2,Home & Kitchen,Brand13,220.91,345.43,Supplier H
+295,Cutting Board Deluxe,Home & Kitchen,Brand1,240.65,647.12,Supplier E
+296,Perfume Mini,Beauty & Personal Care,Brand21,29.5,81.85,Supplier I
+297,Electric Toothbrush V2,Beauty & Personal Care,Brand9,222.65,334.26,Supplier D
+298,Green Tea Box,Groceries,Brand23,84.68,202.95,Supplier C
+299,Headphones Deluxe,Electronics,Brand7,86.27,150.33,Supplier C
+300,Ballpoint Pens (12pk) XL,Office Supplies,Brand11,160.77,306.79,Supplier B

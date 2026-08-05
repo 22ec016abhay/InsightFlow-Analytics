@@ -1,0 +1,51 @@
+employee_id,first_name,last_name,email,role,store_id,hire_date,salary
+1,Joseph,Jackson,joseph.jackson1@insightflow-retail.com,Sales Associate,5,2025-01-28,66905.14
+2,Jennifer,Thompson,jennifer.thompson2@insightflow-retail.com,Cashier,7,2019-10-25,39152.06
+3,Anthony,Hernandez,anthony.hernandez3@insightflow-retail.com,Inventory Specialist,2,2017-01-14,36448.95
+4,Margaret,Lopez,margaret.lopez4@insightflow-retail.com,Sales Associate,10,2018-12-19,65567.66
+5,Sarah,Brown,sarah.brown5@insightflow-retail.com,Sales Associate,15,2020-03-30,57393.87
+6,Mark,Lee,mark.lee6@insightflow-retail.com,Assistant Manager,10,2020-01-21,40845.28
+7,Robert,Johnson,robert.johnson7@insightflow-retail.com,Cashier,11,2018-07-22,77320.19
+8,Margaret,Davis,margaret.davis8@insightflow-retail.com,Inventory Specialist,14,2017-02-17,44786.79
+9,Daniel,Clark,daniel.clark9@insightflow-retail.com,Cashier,6,2017-10-28,48342.45
+10,Nancy,Rodriguez,nancy.rodriguez10@insightflow-retail.com,Sales Associate,12,2023-08-31,60020.03
+11,Jennifer,Moore,jennifer.moore11@insightflow-retail.com,Store Manager,12,2018-09-29,53263.97
+12,William,Robinson,william.robinson12@insightflow-retail.com,Assistant Manager,11,2023-09-19,42102.3
+13,David,Clark,david.clark13@insightflow-retail.com,Sales Associate,13,2024-09-13,42536.21
+14,Mary,Sanchez,mary.sanchez14@insightflow-retail.com,Cashier,6,2020-07-01,
+15,Sandra,Jackson,sandra.jackson15@insightflow-retail.com,Cashier,15,2024-01-19,41780.82
+16,Jessica,Gonzalez,jessica.gonzalez16@insightflow-retail.com,Inventory Specialist,15,2023-03-18,38572.09
+17,John,Davis,john.davis17@insightflow-retail.com,Assistant Manager,12,2022-04-18,44086.11
+18,Charles,Wilson,charles.wilson18@insightflow-retail.com,Inventory Specialist,15,2022-07-18,48651.84
+19,John,Taylor,john.taylor19@insightflow-retail.com,Sales Associate,8,2017-01-07,71610.73
+20,John,Lee,john.lee20@insightflow-retail.com,Inventory Specialist,3,2024-11-18,59434.82
+21,Richard,Gonzalez,richard.gonzalez21@insightflow-retail.com,Assistant Manager,10,2021-04-01,43565.05
+22,Sarah,Ramirez,sarah.ramirez22@insightflow-retail.com,Sales Associate,1,2023-08-18,63358.68
+23,Sarah,Harris,sarah.harris23@insightflow-retail.com,Cashier,5,2024-08-14,37131.4
+24,Susan,Garcia,susan.garcia24@insightflow-retail.com,Cashier,8,2016-01-14,76706.85
+25,Anthony,Garcia,anthony.garcia25@insightflow-retail.com,Cashier,9,2017-03-11,70716.79
+26,Thomas,Martin,thomas.martin26@insightflow-retail.com,Cashier,4,2017-09-18,67075.5
+27,Sarah,Harris,sarah.harris27@insightflow-retail.com,Sales Associate,15,2021-12-12,59551.45
+28,Jessica,Smith,jessica.smith28@insightflow-retail.com,Cashier,2,2020-01-26,43014.81
+29,Linda,Lewis,linda.lewis29@insightflow-retail.com,Sales Associate,10,2016-11-18,65667.75
+30,Mark,Williams,mark.williams30@insightflow-retail.com,Store Manager,13,2021-12-21,37906.01
+31,Jessica,Moore,jessica.moore31@insightflow-retail.com,sales associate,3,2018-12-21,72131.92
+32,Susan,Miller,susan.miller32@insightflow-retail.com,Store Manager,15,2022-01-17,64795.65
+33,Richard,Perez,richard.perez33@insightflow-retail.com,Inventory Specialist,11,2020-03-09,73382.25
+34,Joseph,Brown,joseph.brown34@insightflow-retail.com,Sales Associate,4,2018-07-09,47551.94
+35,Charles,Moore,charles.moore35@insightflow-retail.com,Store Manager,4,2022-08-07,32330.78
+36,Matthew,Lee,matthew.lee36@insightflow-retail.com,Sales Associate,1,2018-07-26,73649.32
+37,Margaret,Hernandez,margaret.hernandez37@insightflow-retail.com,Store Manager,2,2021-10-06,44809.95
+38,Jessica,Miller,jessica.miller38@insightflow-retail.com,Assistant Manager,9,2017-06-25,58505.74
+39,Linda,Sanchez,linda.sanchez39@insightflow-retail.com,Inventory Specialist,8,2025-01-20,40758.86
+40,Patricia,Perez,not-an-email,Inventory Specialist,7,2019-12-22,50910.7
+41,Margaret,White,margaret.white41@insightflow-retail.com,Sales Associate,1,2023-07-21,34788.18
+42,Lisa,Hernandez,lisa.hernandez42@insightflow-retail.com,Store Manager,13,2017-03-23,40813.14
+43,Sarah,Anderson,sarah.anderson43@insightflow-retail.com,Store Manager,3,2020-09-24,44813.08
+44,Linda,Ramirez,linda.ramirez44@insightflow-retail.com,Inventory Specialist,15,2016-11-04,69169.02
+45,Margaret,Moore,margaret.moore45@insightflow-retail.com,Assistant Manager,2,2016-07-26,70457.27
+46,Robert,Robinson,robert.robinson46@insightflow-retail.com,Store Manager,13,2018-08-26,50695.05
+47,Jessica,Miller,jessica.miller47@insightflow-retail.com,Sales Associate,14,2020-06-30,39573.31
+48,James,Gonzalez,james.gonzalez48@insightflow-retail.com,Inventory Specialist,5,2024-10-16,45121.46
+49,Matthew,White,matthew.white49@insightflow-retail.com,Inventory Specialist,13,2022-03-26,39120.65
+50,Elizabeth,Miller,elizabeth.miller50@insightflow-retail.com,Assistant Manager,1,2022-06-30,34804.05
